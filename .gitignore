@@ -1,0 +1,32 @@
+# Java
+*.class
+go.mod
+go.sum
+target/
+
+# OSX
+.DS_Store
+.vscode
+
+# Idea
+*.iml
+.idea
+
+# Maven
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+
+# NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+logfile
+pg_upgrade_internal.log
+pg_upgrade_server.log
+pg_upgrade_utility.log
+*.log*
